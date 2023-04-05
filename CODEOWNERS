@@ -9,4 +9,4 @@
 /CODEOWNERS @jmagman
 /packages/flutter_tools/pubspec.yaml @christopherfujino
 /packages/flutter_tools/templates/module/ios/ @jmagman
-/packages/flutter_tools/templates/**/Podfile* @jmagman
+
